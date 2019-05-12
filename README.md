@@ -1,4 +1,4 @@
-## Chows Carden
+## Chows Garden
 
 Authentic Chinese Food & Canadian Dishes. 
 Restaurant & Dining Lounge. 
