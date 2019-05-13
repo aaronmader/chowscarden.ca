@@ -9,6 +9,29 @@
 - Focus on mobile accessibility.
 
 
+## Todo:
+
+- menu:
+    - create a json object representing the menu
+        - name
+        - description (optional)
+        - price
+        - category
+        - tags (ex: spicy)
+    - create a template to render each menu item (using vue.js?)
+    - enable some basic filtering options (list.js?)
+        - category
+        - tags (as checkboxes)
+    - enable toggling of favourites (check/uncheck a heart icon, or maybe just a checkbox or maybe both?)
+        - store in window.localStorage
+    - include a 'call now' button to place your order.
+        - takes you to a simple (non-interactive), text list of your favourite/checked items, and the phone number.
+- Main menu:
+    - Directions
+    - Order Take-out
+    - Menu
+
+
 ## Setup Instructions
 
 ```
