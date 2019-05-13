@@ -1,20 +1,26 @@
-## Chows Garden
+## Highlights
 
-Authentic Chinese Food & Canadian Dishes. 
-Restaurant & Dining Lounge. 
+- Free hosting (github)
+- Easy to edit
+- Responsive theme
+- Interactive menu:
+    - Filter by category and tags
+    - Star your favourites
+- Focus on mobile accessibility.
 
-328 10th Street, Hanover, Ontario. 
-(519)364-3102 
 
-(Licensed under LLBO)
+## Setup Instructions
 
-Open 6 Days a Week:
-- Sunday: 4pm - 8pm
-- Monday: Closed
-- Tuesday: 11am - 9pm
-- Wednesday: 11am - 9pm
-- Thursday: 11am - 9pm
-- Friday: 11am - 10pm
-- Saturday: 11am - 10pm
-- Closed Holidays
+```
+# see: https://jekyllrb.com/docs/installation/ubuntu/
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+gem install jekyll bundler
+```
 
+## Local Deveopment
+
+Run the command: `bundle exec jekyll serve`, and navigate to http://localhost:4000/.
