@@ -26,6 +26,7 @@
         - store in window.localStorage
     - include a 'call now' button to place your order.
         - takes you to a simple (non-interactive), text list of your favourite/checked items, and the phone number.
+- can I embed google reviews?
 - Main menu:
     - Directions
     - Order Take-out
