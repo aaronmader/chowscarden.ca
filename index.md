@@ -8,7 +8,7 @@ Restaurant & Dining Lounge. (Licensed under LLBO)
 To order take-out: call [519-364-3102](tel:519-364-3102)
 
 Open 6 Days a Week:
-- Sunday: 4pm - 8pm
+- Sunday: 12pm - 8pm
 - Monday: Closed
 - Tuesday: 11am - 9pm
 - Wednesday: 11am - 9pm
