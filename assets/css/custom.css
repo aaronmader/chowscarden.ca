@@ -1,0 +1,19 @@
+.menu_item {
+	border-top: 1px solid #eee;
+	padding: 2em 10px;
+	color: #999;
+	font-size: .9em;
+}
+.menu_item:nth-child(odd) {
+  	background: #fafafa;
+}
+
+.category{
+}
+.price{
+	float: right;
+}
+h3.name{
+	margin:0px;
+	font-size: 1.5em;
+}

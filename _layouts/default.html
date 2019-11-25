@@ -18,6 +18,8 @@
         <meta name="theme-color" content="#157878">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
+        <script src="https://kit.fontawesome.com/946a1d60c5.js" crossorigin="anonymous"></script>
     </head>
     <body>
         <header class="page-header" role="banner">
@@ -37,6 +39,23 @@
         <main id="content" class="main-content" role="main">
             {{ content }}
 
+            <!-- <div id="menu">
+                search<br>
+                <input class="search" placeholder="search..." /><br><br>
+
+                category<br>
+                <select id='category_filter'>
+                    <option value=''>---------</option>
+                    <option>Lunch Special</option>
+                    <option>Combination Platter</option>
+                </select><br><br>
+
+                <input type='checkbox' id='exclude_spicy'>
+                <label for='exclude_spicy'>exclude spicy dishes</label><br><br>
+
+                <div class="list"></div>
+            </div> -->
+
             <footer class="site-footer">
                 {% if site.github.is_project_page %}
                     <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
@@ -46,6 +65,7 @@
         </main>
 
         <!-- Additional scripts -->
-        <script src="{{ '/assets/js/script.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+        <!-- <script src="{{ '/assets/js/list.js?v=' | append: site.github.build_revision | relative_url }}"></script> -->
+        <!-- <script src="{{ '/assets/js/script.js?v=' | append: site.github.build_revision | relative_url }}"></script> -->
     </body>
 </html>
