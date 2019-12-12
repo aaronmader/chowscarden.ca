@@ -40,19 +40,25 @@
             {{ content }}
 
             <!-- <div id="menu">
-                search<br>
-                <input class="search" placeholder="search..." /><br><br>
-
-                category<br>
-                <select id='category_filter'>
-                    <option value=''>---------</option>
-                    <option>Lunch Special</option>
-                    <option>Combination Platter</option>
-                </select><br><br>
-
-                <input type='checkbox' id='exclude_spicy'>
-                <label for='exclude_spicy'>exclude spicy dishes</label><br><br>
-
+                <h3>Our Menu</h3>
+                <p>
+                    <input class="search" placeholder="search..." />
+                </p>
+                <p>
+                    <select id='category_filter'>
+                        <option value=''>--category--</option>
+                        <option>Lunch Special</option>
+                        <option>Combination Platter</option>
+                    </select>
+                </p>
+                <p>
+                    <input type='checkbox' id='exclude_spicy'>
+                    <label for='exclude_spicy'>exclude spicy dishes</label>
+                </p>
+                <p>
+                    <input type='checkbox' id='show_favourites'>
+                    <label for='show_favourites'>show only my favourites</label>
+                </p>
                 <div class="list"></div>
             </div> -->
 
@@ -65,6 +71,7 @@
         </main>
 
         <!-- Additional scripts -->
+        <script src="{{ '/assets/js/jquery.slim.min.js?v=' | append: site.github.build_revision | relative_url }}"></script>
         <script src="{{ '/assets/js/list.js?v=' | append: site.github.build_revision | relative_url }}"></script>
         <script src="{{ '/assets/js/script.js?v=' | append: site.github.build_revision | relative_url }}"></script>
     </body>
