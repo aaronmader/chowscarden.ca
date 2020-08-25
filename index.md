@@ -7,7 +7,7 @@ Restaurant & Dining Lounge. (Licensed under LLBO)
 
 ### Menu
 
-View our [interactive menu](/menu/).
+View our [interactive menu](/menu).
 
 <br>
 
