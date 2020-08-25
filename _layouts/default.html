@@ -39,29 +39,6 @@
         <main id="content" class="main-content" role="main">
             {{ content }}
 
-            <!-- <div id="menu">
-                <h3>Our Menu</h3>
-                <p>
-                    <input class="search" placeholder="search..." />
-                </p>
-                <p>
-                    <select id='category_filter'>
-                        <option value=''>--category--</option>
-                        <option>Lunch Special</option>
-                        <option>Combination Platter</option>
-                    </select>
-                </p>
-                <p>
-                    <input type='checkbox' id='exclude_spicy'>
-                    <label for='exclude_spicy'>exclude spicy dishes</label>
-                </p>
-                <p>
-                    <input type='checkbox' id='show_favourites'>
-                    <label for='show_favourites'>show only my favourites</label>
-                </p>
-                <div class="list"></div>
-            </div> -->
-
             <footer class="site-footer">
                 {% if site.github.is_project_page %}
                     <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
@@ -70,9 +47,5 @@
             </footer>
         </main>
 
-        <!-- Additional scripts -->
-        <script src="{{ '/assets/js/jquery.slim.min.js?v=' | append: site.github.build_revision | relative_url }}"></script>
-        <script src="{{ '/assets/js/list.js?v=' | append: site.github.build_revision | relative_url }}"></script>
-        <script src="{{ '/assets/js/script.js?v=' | append: site.github.build_revision | relative_url }}"></script>
     </body>
 </html>

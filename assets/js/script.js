@@ -460,6 +460,499 @@ var menu = {
 				"price": "$11.00",
 			},
 
+		// Beef
+			{
+				"category": "Beef",
+				"name": "Beef with Green Pepper",
+				"price": "$11.10",
+			},
+			{
+				"category": "Beef",
+				"name": "Beef with Mushroom",
+				"price": "$12.75",
+			},
+			{
+				"category": "Beef",
+				"name": "Beef with Tomato",
+				"price": "$11.75",
+			},
+			{
+				"category": "Beef",
+				"name": "Beef with Mixed Vegetables",
+				"price": "$11.10",
+			},
+			{
+				"category": "Beef",
+				"name": "Beef with Broccoli",
+				"price": "$11.10",
+			},
+			{
+				"category": "Beef",
+				"name": "Beef with Chinese Green",
+				"price": "$11.10",
+			},
+			{
+				"category": "Beef",
+				"name": "Ginger and Green Onion Beef",
+				"price": "$13.00",
+			},
+			{
+				"category": "Beef",
+				"name": "Beef Tenderloin in Cantonese Style",
+				"price": "$14.50",
+			},
+
+		// Pork
+			{
+				"category": "Pork",
+				"name": "Barbecued Pork with Mixed Vegetables",
+				"price": "$10.75",
+			},
+			{
+				"category": "Pork",
+				"name": "Barbecued Pork with Chinese Green",
+				"price": "$10.75",
+			},
+			{
+				"category": "Pork",
+				"name": "Sweet and Sour Pork in Cantonese Style",
+				"price": "$10.75",
+			},
+
+		// Chicken
+			{
+				"category": "Chicken",
+				"name": "Moo Goo Guy Pan",
+				"price": "$10.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Sue Guy - Almond, Mushroom or Lemon Sauce",
+				"price": "$10.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Chicken with Broccoli",
+				"price": "$10.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Lemon Chicken",
+				"price": "$11.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Chicken with Black Bean Sauce",
+				"price": "$10.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Chicken in Peanut Sauce",
+				"price": "$12.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Chow Guy Kew",
+				"price": "$11.95",
+			},
+			{
+				"category": "Chicken",
+				"name": "Sesame Chicken",
+				"price": "$12.10",
+			},
+
+		// Diced Vegetables with Almond
+			{
+				"category": "Diced Vegetables with Almond",
+				"name": "Guy Ding (Chicken)",
+				"price": "$10.50",
+			},
+			{
+				"category": "Diced Vegetables with Almond",
+				"name": "BBQ Pork Ding",
+				"price": "$10.85",
+			},
+			{
+				"category": "Diced Vegetables with Almond",
+				"name": "Beef Ding",
+				"price": "$11.10",
+			},
+			{
+				"category": "Diced Vegetables with Almond",
+				"name": "Har Ding (Shrimp)",
+				"price": "$11.35",
+			},
+			{
+				"category": "Diced Vegetables with Almond",
+				"name": "Plain Vegetables with Almonds",
+				"price": "$9.00",
+			},
+
+		// Seafood
+			{
+				"category": "Seafood",
+				"name": "Fresh Shrimp with Green Pepper",
+				"price": "$12.25",
+			},
+			{
+				"category": "Seafood",
+				"name": "Fresh Shrimp with Lobster Sauce",
+				"price": "$12.75",
+			},
+			{
+				"category": "Seafood",
+				"name": "Chow Har Kew",
+				"price": "$12.95",
+			},
+			{
+				"category": "Seafood",
+				"name": "Fresh Shrimp with Tomato",
+				"price": "$11.75",
+			},
+			{
+				"category": "Seafood",
+				"name": "Fresh Shrimp with Chinese Green",
+				"price": "$11.75",
+			},
+			{
+				"category": "Seafood",
+				"name": "Chow Har Pan",
+				"price": "$12.75",
+			},
+			{
+				"category": "Seafood",
+				"name": "Seafood Delight",
+				"price": "$17.75",
+			},
+
+		// House Specialties
+			{
+				"category": "House Specialties",
+				"name": "Cantonese Chow Mein",
+				"description": "Fried Cantonese Egg Noodles Topped with Chunks of Chicken, BBQ Pork Slices, Fresh Shrimp, and Mixed Vegetables",
+				"price": "$11.95",
+			},
+			{
+				"category": "House Specialties",
+				"name": "Tai Dop Voy",
+				"description": "Stir Fry Sliced Chicken, BBQ Pork Slices, Fresh Shrimp, and Mixed Vegetables",
+				"price": "$11.95",
+			},
+			{
+				"category": "House Specialties",
+				"name": "Sam See Chow Mein",
+				"description": "A Mixture of Chicken, BBQ Pork and Mushroom Stir Fry with Bean Sprouts and Vegetables, Served on A Bed of Crispy Cantonese Egg Noodles",
+				"price": "$11.95",
+			},
+
+		// Lo Mein
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Plain Lo Mein",
+				"price": "$8.60",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Vegetables Lo Mein",
+				"price": "$9.50",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Fresh Shrimp Lo Mein",
+				"price": "$11.75",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Barbecued Pork Lo Mein",
+				"price": "$10.75",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Beef Lo Mein",
+				"price": "$11.75",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Chicken Lo Mein",
+				"price": "$10.75",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Black Bean & Green Pepper Flat Rice Noodle with Beef",
+				"price": "$12.00",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Stir Fried Flat Rice Noodles with Beef",
+				"price": "$12.00",
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Singapore Fried Noodles (Curry Flavour)",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$11.75",
+				"is_spicy": true,
+			},
+			{
+				"category": "Lo Mein (Soft Egg Noodles and Rice Noodles)",
+				"name": "Shanghai Noodles",
+				"price": "$12.00",
+			},
+
+		// Authentic Taste - Chicken
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "Chicken in Garlic Sauce",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$10.75",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "Curry Chicken",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$11.10",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "Orange Chicken",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$11.35",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "Hunan Style Chicken",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$11.35",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "Kung Po Guy Ding",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$10.75",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "Satay Chicken with Shredded Vegetables",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$12.35",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Chicken",
+				"name": "General Chicken - Hot and Spicy",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$12.10",
+				"is_spicy": true,
+			},
+
+		// Authentic Taste - Beef
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Beef in Garlic Sauce",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$11.00",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Curry Beef",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$11.30",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Hunan Style Beef",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$12.10",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Orange Beef",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$12.00",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Satay Beef with Shredded Vegetables",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$13.00",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Szechwan Beef",
+				"price": "$12.10",
+			},
+			{
+				"category": "Authentic Taste - Beef",
+				"name": "Black Pepper Beef",
+				"price": "$13.00",
+			},
+
+		// Authentic Taste - Seafood
+			{
+				"category": "Authentic Taste - Seafood",
+				"name": "Curry Shrimp",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$14.00",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Seafood",
+				"name": "Szechwan Har Yan (Shrimp)",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$14.10",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Seafood",
+				"name": "Kung Po Shrimp (Diced Vegetables)",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$14.10",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Seafood",
+				"name": "Satay Shrimp with Shredded Vegetables",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$14.00",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Seafood",
+				"name": "Hot Spicy Shrimp",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$15.50",
+				"is_spicy": true,
+			},
+
+		// Authentic Taste - To-fu Bean Curd
+			{
+				"category": "Authentic Taste - To-Fu Bean Curd",
+				"name": "Hun Sil To-Fu",
+				"price": "$10.75",
+			},
+			{
+				"category": "Authentic Taste - To-Fu Bean Curd",
+				"name": "To-Fu with Beef",
+				"price": "$10.75",
+			},
+			{
+				"category": "Authentic Taste - To-Fu Bean Curd",
+				"name": "To-Fu Barbecued Pork Slices",
+				"price": "$10.75",
+			},
+			{
+				"category": "Authentic Taste - To-Fu Bean Curd",
+				"name": "Ma Paw To-Fu",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$10.75",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - To-Fu Bean Curd",
+				"name": "To-Fu with Mixed Vegetables",
+				"price": "$9.75",
+			},
+
+
+		// Authentic Taste - Pad Thai
+			{
+				"category": "Authentic Taste - Pad Thai",
+				"name": "Vegetable Pad Thai",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$8.95",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Pad Thai",
+				"name": "Roast Pork, Chicken, or Beef Pad Thai",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$8.95",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Pad Thai",
+				"name": "Shrimp Pad Thai",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$9.95",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Pad Thai",
+				"name": "House Special Pad Thai (Chicken, Pork, Shrimp)",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$9.95",
+				"is_spicy": true,
+			},
+
+		// Authentic Taste - Thai Red Curry
+			{
+				"category": "Authentic Taste - Thai Red Curry",
+				"name": "Thai Red Curry with Chicken",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$9.50",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Thai Red Curry",
+				"name": "Thai Red Curry with Beef",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$9.50",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Thai Red Curry",
+				"name": "Thai Red Curry with Shrimp",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$10.25",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Thai Red Curry",
+				"name": "Thai Red Curry with Vegetable",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$8.95",
+				"is_spicy": true,
+			},
+
+		// Authentic Taste - Thai Yellow Curry
+			{
+				"category": "Authentic Taste - Thai Yellow Curry",
+				"name": "Thai Yellow Curry with Chicken",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$9.50",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Thai Yellow Curry",
+				"name": "Thai Yellow Curry with Beef",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$9.50",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Thai Yellow Curry",
+				"name": "Thai Yellow Curry with Shrimp",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$10.25",
+				"is_spicy": true,
+			},
+			{
+				"category": "Authentic Taste - Thai Yellow Curry",
+				"name": "Thai Yellow Curry with Vegetable",
+				"description": "<i class='fas fa-pepper-hot'></i>",
+				"price": "$8.95",
+				"is_spicy": true,
+			},
 
 	]
 }
